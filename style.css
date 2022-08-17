@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+.link-header {
+    text-decoration: none;
+    box-shadow: 5px 5px 10px 0  black;
+    color: #1C2A80;
+    background-color: #EFA554;
+}
+.link-nav {
+    margin-top: 100px;
+    text-decoration: none;
+    color: black
+}
+p {
+    box-shadow: 5px 5px 10px 0 black;
+}
+h1 {
+    color: #6975C2;
+    box-shadow: 5px 6px 10px 0 rgb(39, 24, 48);
+    text-align: center;
+}
